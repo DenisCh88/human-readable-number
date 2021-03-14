@@ -25,6 +25,7 @@
     "colors": "^1.4.0",
     "mocha": "^6.2.2",
     "num-words": "^1.2.2",
-    "semver": "^6.3.0"
+    "semver": "^6.3.0",
+    "words-to-numbers": "^1.5.1"
   }
 }
